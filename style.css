@@ -388,7 +388,6 @@ hr {
     align-items: center;
 }
 .job img {
-    height: 200px;
     background-color: white;
     height: 100px;
     width: auto;
@@ -400,6 +399,11 @@ hr {
     box-shadow: -12px 12px 20px 10px var(--shadow-hover);
     transform: translate(5px, -6.5px);
     position: relative;
+}
+@media screen and (max-width: 460px) {
+    .job img {
+        height: 70px;
+    }    
 }
 .colorful-txt {
     font-size: 20px;
@@ -1000,7 +1004,7 @@ body.dark .gadget-svg {
         margin-bottom: 25px;
     }
     #resume-right img {
-        height: 600px;
+        height: 500px;
         margin: 0px;
     }
     #footer-section {
