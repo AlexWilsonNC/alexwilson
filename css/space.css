@@ -1,8 +1,8 @@
-body.dark {
+body.space {
     background-color: #000;
 }
 
-body.dark main {
+body.space main {
     background: url(../assets/space2.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -10,34 +10,34 @@ body.dark main {
     background-size: cover;
 }
 
-body.dark .info p {
+body.space .info p {
     color: #fff;
 }
 
-body.dark #white-tech-box {
+body.space #white-tech-box {
     background-color: rgb(22, 22, 22);
     color: #fff;
 }
 
-body.dark #testimonials {
+body.space #testimonials {
     color: #fff;
 }
 
-body.dark #theme-btn {
+body.space #theme-btn {
     color: black;
     background-color: #fff;
 }
 
-body.dark #theme-btn-space {
+body.space #theme-btn-space {
     color: black;
     background-color: #fff;
 }
 
-body.dark .gadget-svg {
+body.space .gadget-svg {
     fill: #fff;
     z-index: 2;
 }
 
-body.dark #slide-right p {
+body.space #slide-right p {
     color: #fff;
 }

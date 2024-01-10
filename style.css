@@ -64,11 +64,11 @@ body.dark #theme-btn-space {
     background-color: #fff;
 }
 
-/* body.dark #profile-img {
-    content: url("assets/profile-vampire.jpg");
-} */
-
 body.dark #profile-img {
+    content: url("assets/profile-vampire.jpg");
+}
+
+body.space #profile-img {
     content: url("assets/alien-profile.jpg");
 }
 
