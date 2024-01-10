@@ -1,0 +1,43 @@
+body.dark {
+    background-color: #000;
+}
+
+body.dark main {
+    background: url(../assets/space2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body.dark .info p {
+    color: #fff;
+}
+
+body.dark #white-tech-box {
+    background-color: rgb(22, 22, 22);
+    color: #fff;
+}
+
+body.dark #testimonials {
+    color: #fff;
+}
+
+body.dark #theme-btn {
+    color: black;
+    background-color: #fff;
+}
+
+body.dark #theme-btn-space {
+    color: black;
+    background-color: #fff;
+}
+
+body.dark .gadget-svg {
+    fill: #fff;
+    z-index: 2;
+}
+
+body.dark #slide-right p {
+    color: #fff;
+}
